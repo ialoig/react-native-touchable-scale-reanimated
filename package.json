@@ -1,0 +1,11 @@
+{
+  "name": "@ialoig/react-native-touchable-scale",
+  "version": "1.0.0",
+  "description": "Touchable component that scale when a gesture is handled",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ialoig",
+  "license": "MIT"
+}
