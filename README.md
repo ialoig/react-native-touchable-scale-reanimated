@@ -6,7 +6,7 @@
 # Introduction
 
 <p align="center">
-  TouchableScale.js is a simple React Native component, that scale when a gesture is endled.
+  TouchableScale.js is a simple React Native component, that scale when a gesture is handled.
 </p>
 
 ![Button scale](../react-native-touchable-scale/example/react-native-touchable-scale/src/assets/img/scale-button.gif)
