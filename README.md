@@ -9,7 +9,7 @@
   TouchableScale.js is a simple React Native component, that scale when a gesture is handled.
 </p>
 
-![Button scale](../react-native-touchable-scale/example/button-scale/src/assets/img/scale-button.gif)
+![Button scale](./example/button-scale/src/assets/img/scale-button.gif)
 
 
 
@@ -46,9 +46,9 @@
 
 <h1 id="Example">Example</h1>
 
-You can find an example on /example/react-native-touchable-scale/.
+You can find an example on /example/button-scale/.
 
-Run installation from hereAdd latest package version
+Run installation from here
 ```bash
 $ npm install
 ```
