@@ -1,36 +1,30 @@
-<div align="center">
-    <br/><em>Brought with</em> &nbsp;❤️ <em>by</em> &nbsp; ialoig
-</div>
-
 
 # Introduction
 
-<p align="center">
-  TouchableScale.js is a simple React Native component, that scale when a gesture is handled.
+### Hi! :wave: 
+### this is `TouchableScale.js` developed with</em> &nbsp;❤️ <em>by</em> &nbsp; ialoig.
+TouchableScale.js is a simple React Native component, that scale when a gesture is handled.
+
+<p align="center"> 
+  <img src="./example/button-scale/src/assets/img/scale-button.gif" alt="TouchableScale">
 </p>
-
-![Button scale](./example/button-scale/src/assets/img/scale-button.gif)
-
-
 
 <div align="center">
   <a href="#GettingStarted">Getting Started</a> &nbsp;|&nbsp; 
   <a href="#Properties">Properties</a> &nbsp;|&nbsp; 
-  <a href="#Example">Example</a> &nbsp;|&nbsp; 
+  <a href="#Example">Example</a> &nbsp;
 </div>
 
 
 
-
-<h1 id="Getting-Started">Getting Started</h1>
+<h1 id="Getting-Started">🚀 Getting Started</h1>
 
 ## Prerequisites
 * [React Native](https://facebook.github.io/react-native/docs/getting-started.html)
-* [node v14.17.1](https://github.com/creationix/nvm)
+* [Node v14.17.1](https://nodejs.org/en/)
 
 
-
-<h1 id="Properties">Properties</h1>
+<h1 id="Properties">📝 Properties</h1>
 
 ### Touchable Scale
 
