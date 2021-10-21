@@ -2,8 +2,8 @@
 # Introduction
 
 ### Hi! :wave: 
-### this is `TouchableScale.js` developed with</em> &nbsp;❤️ <em>by</em> &nbsp; ialoig.
-TouchableScale.js is a simple React Native component, that scale when a gesture is handled.
+### this is `TouchableScale.js` developed with</em> &nbsp;❤️ <em>by</em>&nbsp;ialoig.
+TouchableScale.js is a simple React Native component, animated with Reanimated 2 that scale when a gesture is handled.
 
 <p align="center"> 
   <img src="./example/button-scale/src/assets/img/scale-button.gif" alt="TouchableScale">
@@ -22,6 +22,7 @@ TouchableScale.js is a simple React Native component, that scale when a gesture 
 ## Prerequisites
 * [React Native](https://facebook.github.io/react-native/docs/getting-started.html)
 * [Node v14.17.1](https://nodejs.org/en/)
+* [Reanimated 2](https://docs.swmansion.com/react-native-reanimated/)
 
 
 <h1 id="Properties">📝 Properties</h1>
