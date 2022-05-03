@@ -1,5 +1,5 @@
 
-# Touchable Scale Reanimated
+# Touchable Scale Reanimated [![github](https://img.shields.io/github/package-json/v/ialoig/react-native-touchable-scale-reanimated)](https://img.shields.io/github/package-json/v/ialoig/react-native-touchable-scale-reanimated) [![npm](https://img.shields.io/npm/v/react-native-touchable-scale-reanimated-reanimated?color=red)](https://img.shields.io/npm/v/react-native-touchable-scale-reanimated-reanimated?color=red)
 
 ### Hi 👋
 
