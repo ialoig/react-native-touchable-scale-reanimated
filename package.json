@@ -1,5 +1,5 @@
 {
-  "name": "react-native-touchable-scale-reanimated-reanimated",
+  "name": "react-native-touchable-scale-reanimated",
   "version": "1.0.1",
   "description": "🖐️ Touchable component that scale when a gesture is handled",
   "main": "src/index.js",
