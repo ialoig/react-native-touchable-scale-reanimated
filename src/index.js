@@ -15,7 +15,7 @@ const DEFAULT_DURATION = 150
 const DEFAULT_SCALE = 0.95
 
 
-function TouchableScale({ style, children, onPress, scaleValue, durationValue, ...props }) {
+export const TouchableScale = ({ style, children, onPress, scaleValue, durationValue, ...props }) => {
     
 	//define scale value to set; change every time an event is catch
 	const scale = useSharedValue(1)
@@ -118,5 +118,3 @@ TouchableScale.defaultProps = {
 	scaleValue: DEFAULT_SCALE,
 	durationValue: DEFAULT_DURATION
 }
-
-export default TouchableScale

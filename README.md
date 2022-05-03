@@ -1,33 +1,39 @@
 
-# Introduction
+# Touchable Scale Reanimated
 
-### Hi! :wave: 
-### this is `TouchableScale.js` developed with</em> &nbsp;❤️ <em>by</em>&nbsp;ialoig.
-TouchableScale.js is a simple React Native component, animated with Reanimated 2 that scale when a gesture is handled.
+### Hi 👋
 
-<p align="center"> 
+### `Touchable Scale Reanimated` is a simple React Native component
+
+### animated with [`Reanimated 2`](https://www.reanimated2.com/) that scale when a gesture is handled
+
+<p align="center">
   <img src="./example/button-scale/src/assets/img/scale-button.gif" alt="TouchableScale">
 </p>
 
 <div align="center">
-  <a href="#GettingStarted">Getting Started</a> &nbsp;|&nbsp; 
-  <a href="#Properties">Properties</a> &nbsp;|&nbsp; 
+  <a href="#GettingStarted">Getting Started</a> &nbsp;|&nbsp;
+  <a href="#Properties">Properties</a> &nbsp;|&nbsp;
   <a href="#Example">Example</a> &nbsp;
 </div>
-
-
 
 <h1 id="Getting-Started">🚀 Getting Started</h1>
 
 ## Prerequisites
+
 * [React Native](https://facebook.github.io/react-native/docs/getting-started.html)
 * [Node v14.17.1](https://nodejs.org/en/)
 * [Reanimated 2](https://docs.swmansion.com/react-native-reanimated/)
 
+## Install
+
+```shell
+npm install react-native-touchable-scale-reanimated
+```
 
 <h1 id="Properties">📝 Properties</h1>
 
-### Touchable Scale
+### Touchable Scale Reanimated
 
 | Property                      | Type                                                  | Optional |  Default                                                                                                                                                                                       | Description                                              |
 | :-----: | :---------------------------------------------------: | :-------:| :-----------------------------------------------: | :--------------------:|
@@ -37,24 +43,23 @@ TouchableScale.js is a simple React Native component, animated with Reanimated 2
 | `scaleValue`| `number`|Yes|`0.95`| Set how much you want to scale the component|
 | `durationValue`|`number`|Yes| `150`| Set the scale duration|
 
-
-
 <h1 id="Example">Example</h1>
 
-You can find an example on /example/button-scale/.
+You can find an example under the folder `/example/button-scale/`.
 
 Run installation from here
-```bash
-$ npm install
+
+```shell
+npm install react-native-touchable-scale-reanimated
 ```
 
 Run app with the following command package version
-```bash
-$ npm start
+
+```shell
+npm start
 ```
 
-
-There is a defined component (ie. Button ), wrapped with the Touchable Scale component:
+Here you can find a defined component (ie. Button ), wrapped with the Touchable Scale component:
 
 ```jsx
 import React from 'react'
@@ -75,3 +80,6 @@ function Button ({ title, type, size, border, onPress }) {
 
 export default Button
 ```
+
+---
+made with 💪 by ialoig

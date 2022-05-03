@@ -38,6 +38,14 @@ export const button = StyleSheet.create({
 })
 
 export const text = StyleSheet.create({
+	button: {
+		color: colors.text,
+		fontSize: 16,
+		fontStyle: "normal",
+		fontWeight: "normal",
+		letterSpacing: 0.75,
+		lineHeight: 28
+	},
 	h1: {
 		color: colors.text,
 		fontSize: 24,
@@ -46,14 +54,6 @@ export const text = StyleSheet.create({
 		letterSpacing: 0.75,
 		lineHeight: 28,
 		paddingVertical: 20
-	},
-	button: {
-		color: colors.text,
-		fontSize: 16,
-		fontStyle: "normal",
-		fontWeight: "normal",
-		letterSpacing: 0.75,
-		lineHeight: 28
 	},
 	primary: {
 		color: colors.white,

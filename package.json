@@ -1,13 +1,14 @@
 {
-  "name": "@ialoig/react-native-touchable-scale",
+  "name": "react-native-touchable-scale-reanimated-reanimated",
   "version": "1.0.0",
-  "description": "Touchable component that scale when a gesture is handled",
+  "description": "🖐️ Touchable component that scale when a gesture is handled",
   "main": "src/index.js",
   "source": "src/index",
-  "repository": "https://github.com/ialoig/react-native-touchable-scale.git",
+  "repository": "https://github.com/ialoig/react-native-touchable-scale-reanimated.git",
   "author": "ialoig <ialoig@protonmail.com>",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --fix src"
   },
   "license": "MIT",
   "peerDependencies": {
@@ -15,14 +16,11 @@
     "react-native": "*"
   },
   "dependencies": {
-    "react": "16.13.1",
-    "react-native": "~0.63.4",
-    "react-dom": "16.13.1",
+    "prop-types": "^15.8.1",
+    "react": "*",
+    "react-native": "*",
     "react-native-gesture-handler": "~1.10.2",
-    "react-native-reanimated": "~2.2.0",
-    "react-native-screens": "~3.4.0",
-    "react-native-unimodules": "~0.14.3",
-    "react-native-web": "~0.13.12"
+    "react-native-reanimated": "~2.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",

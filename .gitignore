@@ -1,20 +1,2 @@
-node_modules/**/*
-.expo/*
-.idea/*
-npm-debug.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
-web-build/
-
-# macOS
-.DS_Store
-
-# custom config
-custom_config.js
-
-#eslint
-.eslintcache
+node_modules/
+example/

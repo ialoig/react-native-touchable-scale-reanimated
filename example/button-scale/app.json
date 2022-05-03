@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-touchable-scale",
-    "slug": "react-native-touchable-scale",
+    "name": "react-native-touchable-scale-reanimated",
+    "slug": "react-native-touchable-scale-reanimated",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "react-native-touchable-scale"
+  "name": "react-native-touchable-scale-reanimated"
 }
