@@ -3,9 +3,7 @@
 
 ### Hi 👋
 
-### `Touchable Scale Reanimated` is a simple React Native component
-
-### animated with [`Reanimated 2`](https://www.reanimated2.com/) that scale when a gesture is handled
+### `Touchable Scale Reanimated` is a simple React Native component animated with [`Reanimated 2`](https://www.reanimated2.com/) that scale when a gesture is handled
 
 <p align="center">
   <img src="./example/button-scale/src/assets/img/scale-button.gif" alt="TouchableScale">
