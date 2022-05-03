@@ -1,11 +1,17 @@
 {
   "name": "react-native-touchable-scale-reanimated-reanimated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🖐️ Touchable component that scale when a gesture is handled",
   "main": "src/index.js",
   "source": "src/index",
   "repository": "https://github.com/ialoig/react-native-touchable-scale-reanimated.git",
   "author": "ialoig <ialoig@protonmail.com>",
+  "keywords": [
+    "react-native",
+    "reanimated2",
+    "touchable",
+    "gesture-handler"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --fix src"
