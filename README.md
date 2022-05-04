@@ -1,5 +1,5 @@
 
-# Touchable Scale Reanimated [![github version](https://img.shields.io/github/package-json/v/ialoig/react-native-touchable-scale-reanimated)](https://img.shields.io/github/package-json/v/ialoig/react-native-touchable-scale-reanimated) [![npm version](https://img.shields.io/npm/v/react-native-touchable-scale-reanimated-reanimated?color=red)](https://img.shields.io/npm/v/react-native-touchable-scale-reanimated-reanimated?color=red)
+# Touchable Scale Reanimated [![github version](https://img.shields.io/github/package-json/v/ialoig/react-native-touchable-scale-reanimated)](https://github.com/ialoig/react-native-touchable-scale-reanimated) [![npm version](https://img.shields.io/npm/v/react-native-touchable-scale-reanimated-reanimated?color=red)](https://www.npmjs.com/package/react-native-touchable-scale-reanimated-reanimated)
 
 ### Hi 👋
 
